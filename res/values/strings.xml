@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">From Fleur Islam</string>
+	<string name="app_name">SalatTime</string>
+	<string name="fajr">Fajr</string>
+	<string name="shourouk">Shourouk</string>
+	<string name="dhor">Dhor</string>
+	<string name="asr">Asr</string>
+	<string name="maghrib">Maghrib</string>
+	<string name="isha">Isha</string>
+	<string name="fajrTime">06h02</string>
+	<string name="shouroukTime">07h18</string>
+	<string name="dhorTime">13h46</string>
+	<string name="asrTime">17h23</string>
+	<string name="maghribTime">20h14</string>
+	<string name="ishaTime">21h24</string>
+</resources>
